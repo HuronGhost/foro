@@ -1,0 +1,23 @@
+td {
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color:  rgb(52, 145, 145);
+    font: bold;
+}
+tbody{
+    border: 2px solid rgb(52, 145, 145);
+}
+.card{
+
+    color: rgb(52, 145, 145);
+    border: 2px solid rgb(52, 145, 145);
+}
+.card-header{
+
+    color: rgb(52, 145, 145);
+    border: 2px solid rgb(52, 145, 145);
+}
+img{
+    border: solid rgb(52, 145, 145);
+}
